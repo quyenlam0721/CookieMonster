@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cookie Monster</string>
+    <string name="EatenCookie">Eaten cookie so far: </string>
+    <string name="BakedCookie">Baked cookie so far: </string>
+    <string name="Clock">Stimulated Clock: </string>
+</resources>
